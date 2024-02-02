@@ -1,0 +1,16 @@
+@media all and (max-width: 1025px) {
+  .container {
+    max-width: 884px;
+    margin: 0 auto;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    width: 53%;
+  }
+  .navbar_li {
+    width: 45%;
+    position: relative;
+    display: inline-block;
+  }
+}
